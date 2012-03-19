@@ -1,0 +1,12 @@
+Feel free to fix my terrible code!
+
+This project was mostly implemented as part of a final project for the 
+Functional Languages class at PSU.  It still needs some work and this
+seems like something only I really have any interest in so I will
+probably try to fix the things that are broken myself sometime in the
+near future.
+
+This is a Haskell implementation, and was run in Hugs.  It should run
+fine in other Haskell interpereters or GHC, I imagine.
+
+- Wes
